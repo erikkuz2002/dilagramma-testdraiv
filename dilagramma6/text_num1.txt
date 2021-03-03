@@ -1,0 +1,11 @@
+Estonia,48809
+USA,27799946
+India,10858300
+Brazil,9602034
+Russia,4012710
+Great Britain,3972148
+France,3360235
+Spain,3005487
+Italy,2655319
+Turkey,2548195
+Germany,2302051
